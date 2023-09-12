@@ -1,1 +1,8 @@
 git cmd = command
+1.git status (finding changes)
+2.git add filename  . *(.= gitignore , * = all)
+3.git commit -m "comment"
+if new account
+(i) git config --global user.name "username"
+(ii) git config --global user.email "useremail"
+4.git push -u origing main
